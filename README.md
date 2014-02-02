@@ -9,6 +9,6 @@ SYWtLtP is a primer for people who want to learn more about programming. Not to 
 
 ## Possible Chapters
 
-* Motivations: Communication, Creativity, Computation
+* Motivations: Communication, Creativity, Computation, Efficiency
 * Sightseeing: Websites, Games, Desktop Applications, and Mobile Apps
 * Navigating: Internet resources, People, and Books
